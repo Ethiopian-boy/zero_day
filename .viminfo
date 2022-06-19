@@ -10,11 +10,26 @@
 
 # hlsearch on (H) or off (h):
 ~h
+# Last Search Pattern:
+~Msle0~/\<string\>
+
 # Command Line History (newest to oldest):
 :wq
-|2,0,1646430979,,"wq"
+|2,0,1655141553,,"wq"
+:wQ
+|2,0,1654802517,,"wQ"
+:q!
+|2,0,1654718069,,"q!"
+:wq!
+|2,0,1654541858,,"wq!"
+:WQ
+|2,0,1654460514,,"WQ"
+:q
+|2,0,1654187361,,"q"
 
 # Search String History (newest to oldest):
+? \<string\>
+|2,1,1652504134,,"\\<string\\>"
 
 # Expression History (newest to oldest):
 
@@ -25,31 +40,1447 @@
 # Registers:
 
 # File marks:
-'0  1  4  ~/0x00-vagrant/0-hello_ubuntu
-|4,48,1,4,1646430979,"~/0x00-vagrant/0-hello_ubuntu"
-'1  1  8  ~/0x00-vagrant/README.md
-|4,49,1,8,1646430905,"~/0x00-vagrant/README.md"
+'0  1  0  ~/alx-low_level_programming/0x18-dynamic_libraries/libholberton.so
+|4,48,1,0,1655141553,"~/alx-low_level_programming/0x18-dynamic_libraries/libholberton.so"
+'1  1  0  ~/alx-low_level_programming/0x18-dynamic_libraries/100-operations.so
+|4,49,1,0,1655141438,"~/alx-low_level_programming/0x18-dynamic_libraries/100-operations.so"
+'2  1  0  ~/alx-low_level_programming/0x18-dynamic_libraries/1-create_dynamic_lib.sh
+|4,50,1,0,1655141405,"~/alx-low_level_programming/0x18-dynamic_libraries/1-create_dynamic_lib.sh"
+'3  3  70  ~/alx-low_level_programming/0x17-doubly_linked_lists/README.md
+|4,51,3,70,1654802525,"~/alx-low_level_programming/0x17-doubly_linked_lists/README.md"
+'4  31  26  ~/alx-higher_level_programming/0x04-python-more_data_structures/103-python.c
+|4,52,31,26,1654718069,"~/alx-higher_level_programming/0x04-python-more_data_structures/103-python.c"
+'5  2  6  ~/alx-higher_level_programming/0x04-python-more_data_structures/11-multiply_list_map.py
+|4,53,2,6,1654716383,"~/alx-higher_level_programming/0x04-python-more_data_structures/11-multiply_list_map.py"
+'6  7  13  ~/alx-higher_level_programming/0x04-python-more_data_structures/11-main.py
+|4,54,7,13,1654716163,"~/alx-higher_level_programming/0x04-python-more_data_structures/11-main.py"
+'7  1  0  ~/alx-higher_level_programming/0x04-python-more_data_structures/11-mutiply_list_map.py
+|4,55,1,0,1654716111,"~/alx-higher_level_programming/0x04-python-more_data_structures/11-mutiply_list_map.py"
+'8  1  0  ~/alx-higher_level_programming/0x04-python-more_data_structures/0-square_matrix_simple.py
+|4,56,1,0,1654715308,"~/alx-higher_level_programming/0x04-python-more_data_structures/0-square_matrix_simple.py"
+'9  1  0  ~/alx-higher_level_programming/0x04-python-more_data_structures/README.md
+|4,57,1,0,1654708875,"~/alx-higher_level_programming/0x04-python-more_data_structures/README.md"
 
 # Jumplist (newest first):
--'  1  4  ~/0x00-vagrant/0-hello_ubuntu
-|4,39,1,4,1646430979,"~/0x00-vagrant/0-hello_ubuntu"
--'  1  8  ~/0x00-vagrant/README.md
-|4,39,1,8,1646430905,"~/0x00-vagrant/README.md"
--'  1  8  ~/0x00-vagrant/README.md
-|4,39,1,8,1646430905,"~/0x00-vagrant/README.md"
+-'  1  0  ~/alx-low_level_programming/0x18-dynamic_libraries/libholberton.so
+|4,39,1,0,1655141553,"~/alx-low_level_programming/0x18-dynamic_libraries/libholberton.so"
+-'  1  0  ~/alx-low_level_programming/0x18-dynamic_libraries/100-operations.so
+|4,39,1,0,1655141438,"~/alx-low_level_programming/0x18-dynamic_libraries/100-operations.so"
+-'  1  0  ~/alx-low_level_programming/0x18-dynamic_libraries/100-operations.so
+|4,39,1,0,1655141438,"~/alx-low_level_programming/0x18-dynamic_libraries/100-operations.so"
+-'  1  0  ~/alx-low_level_programming/0x18-dynamic_libraries/1-create_dynamic_lib.sh
+|4,39,1,0,1655141405,"~/alx-low_level_programming/0x18-dynamic_libraries/1-create_dynamic_lib.sh"
+-'  1  0  ~/alx-low_level_programming/0x18-dynamic_libraries/1-create_dynamic_lib.sh
+|4,39,1,0,1655141405,"~/alx-low_level_programming/0x18-dynamic_libraries/1-create_dynamic_lib.sh"
+-'  1  0  ~/alx-low_level_programming/0x18-dynamic_libraries/1-create_dynamic_lib.sh
+|4,39,1,0,1655141405,"~/alx-low_level_programming/0x18-dynamic_libraries/1-create_dynamic_lib.sh"
+-'  1  0  ~/alx-low_level_programming/0x18-dynamic_libraries/1-create_dynamic_lib.sh
+|4,39,1,0,1655141405,"~/alx-low_level_programming/0x18-dynamic_libraries/1-create_dynamic_lib.sh"
+-'  3  70  ~/alx-low_level_programming/0x17-doubly_linked_lists/README.md
+|4,39,3,70,1654802525,"~/alx-low_level_programming/0x17-doubly_linked_lists/README.md"
+-'  3  70  ~/alx-low_level_programming/0x17-doubly_linked_lists/README.md
+|4,39,3,70,1654802525,"~/alx-low_level_programming/0x17-doubly_linked_lists/README.md"
+-'  3  70  ~/alx-low_level_programming/0x17-doubly_linked_lists/README.md
+|4,39,3,70,1654802525,"~/alx-low_level_programming/0x17-doubly_linked_lists/README.md"
+-'  3  70  ~/alx-low_level_programming/0x17-doubly_linked_lists/README.md
+|4,39,3,70,1654802525,"~/alx-low_level_programming/0x17-doubly_linked_lists/README.md"
+-'  3  70  ~/alx-low_level_programming/0x17-doubly_linked_lists/README.md
+|4,39,3,70,1654802525,"~/alx-low_level_programming/0x17-doubly_linked_lists/README.md"
+-'  3  70  ~/alx-low_level_programming/0x17-doubly_linked_lists/README.md
+|4,39,3,70,1654802525,"~/alx-low_level_programming/0x17-doubly_linked_lists/README.md"
+-'  3  70  ~/alx-low_level_programming/0x17-doubly_linked_lists/README.md
+|4,39,3,70,1654802525,"~/alx-low_level_programming/0x17-doubly_linked_lists/README.md"
+-'  3  70  ~/alx-low_level_programming/0x17-doubly_linked_lists/README.md
+|4,39,3,70,1654802525,"~/alx-low_level_programming/0x17-doubly_linked_lists/README.md"
+-'  1  0  ~/alx-low_level_programming/0x17-doubly_linked_lists/README.md
+|4,39,1,0,1654802476,"~/alx-low_level_programming/0x17-doubly_linked_lists/README.md"
+-'  1  0  ~/alx-low_level_programming/0x17-doubly_linked_lists/README.md
+|4,39,1,0,1654802476,"~/alx-low_level_programming/0x17-doubly_linked_lists/README.md"
+-'  1  0  ~/alx-low_level_programming/0x17-doubly_linked_lists/README.md
+|4,39,1,0,1654802476,"~/alx-low_level_programming/0x17-doubly_linked_lists/README.md"
+-'  1  0  ~/alx-low_level_programming/0x17-doubly_linked_lists/README.md
+|4,39,1,0,1654802476,"~/alx-low_level_programming/0x17-doubly_linked_lists/README.md"
+-'  1  0  ~/alx-low_level_programming/0x17-doubly_linked_lists/README.md
+|4,39,1,0,1654802476,"~/alx-low_level_programming/0x17-doubly_linked_lists/README.md"
+-'  1  0  ~/alx-low_level_programming/0x17-doubly_linked_lists/README.md
+|4,39,1,0,1654802476,"~/alx-low_level_programming/0x17-doubly_linked_lists/README.md"
+-'  1  0  ~/alx-low_level_programming/0x17-doubly_linked_lists/README.md
+|4,39,1,0,1654802476,"~/alx-low_level_programming/0x17-doubly_linked_lists/README.md"
+-'  1  0  ~/alx-low_level_programming/0x17-doubly_linked_lists/README.md
+|4,39,1,0,1654802476,"~/alx-low_level_programming/0x17-doubly_linked_lists/README.md"
+-'  31  26  ~/alx-higher_level_programming/0x04-python-more_data_structures/103-python.c
+|4,39,31,26,1654718069,"~/alx-higher_level_programming/0x04-python-more_data_structures/103-python.c"
+-'  31  26  ~/alx-higher_level_programming/0x04-python-more_data_structures/103-python.c
+|4,39,31,26,1654718069,"~/alx-higher_level_programming/0x04-python-more_data_structures/103-python.c"
+-'  31  26  ~/alx-higher_level_programming/0x04-python-more_data_structures/103-python.c
+|4,39,31,26,1654718069,"~/alx-higher_level_programming/0x04-python-more_data_structures/103-python.c"
+-'  31  26  ~/alx-higher_level_programming/0x04-python-more_data_structures/103-python.c
+|4,39,31,26,1654718069,"~/alx-higher_level_programming/0x04-python-more_data_structures/103-python.c"
+-'  31  26  ~/alx-higher_level_programming/0x04-python-more_data_structures/103-python.c
+|4,39,31,26,1654718069,"~/alx-higher_level_programming/0x04-python-more_data_structures/103-python.c"
+-'  31  26  ~/alx-higher_level_programming/0x04-python-more_data_structures/103-python.c
+|4,39,31,26,1654718069,"~/alx-higher_level_programming/0x04-python-more_data_structures/103-python.c"
+-'  31  26  ~/alx-higher_level_programming/0x04-python-more_data_structures/103-python.c
+|4,39,31,26,1654718069,"~/alx-higher_level_programming/0x04-python-more_data_structures/103-python.c"
+-'  31  26  ~/alx-higher_level_programming/0x04-python-more_data_structures/103-python.c
+|4,39,31,26,1654718069,"~/alx-higher_level_programming/0x04-python-more_data_structures/103-python.c"
+-'  31  26  ~/alx-higher_level_programming/0x04-python-more_data_structures/103-python.c
+|4,39,31,26,1654718069,"~/alx-higher_level_programming/0x04-python-more_data_structures/103-python.c"
+-'  31  26  ~/alx-higher_level_programming/0x04-python-more_data_structures/103-python.c
+|4,39,31,26,1654718069,"~/alx-higher_level_programming/0x04-python-more_data_structures/103-python.c"
+-'  31  26  ~/alx-higher_level_programming/0x04-python-more_data_structures/103-python.c
+|4,39,31,26,1654718069,"~/alx-higher_level_programming/0x04-python-more_data_structures/103-python.c"
+-'  31  26  ~/alx-higher_level_programming/0x04-python-more_data_structures/103-python.c
+|4,39,31,26,1654718069,"~/alx-higher_level_programming/0x04-python-more_data_structures/103-python.c"
+-'  31  26  ~/alx-higher_level_programming/0x04-python-more_data_structures/103-python.c
+|4,39,31,26,1654718069,"~/alx-higher_level_programming/0x04-python-more_data_structures/103-python.c"
+-'  31  26  ~/alx-higher_level_programming/0x04-python-more_data_structures/103-python.c
+|4,39,31,26,1654718069,"~/alx-higher_level_programming/0x04-python-more_data_structures/103-python.c"
+-'  31  26  ~/alx-higher_level_programming/0x04-python-more_data_structures/103-python.c
+|4,39,31,26,1654718069,"~/alx-higher_level_programming/0x04-python-more_data_structures/103-python.c"
+-'  31  26  ~/alx-higher_level_programming/0x04-python-more_data_structures/103-python.c
+|4,39,31,26,1654718069,"~/alx-higher_level_programming/0x04-python-more_data_structures/103-python.c"
+-'  1  0  ~/alx-higher_level_programming/0x04-python-more_data_structures/103-python.c
+|4,39,1,0,1654718029,"~/alx-higher_level_programming/0x04-python-more_data_structures/103-python.c"
+-'  1  0  ~/alx-higher_level_programming/0x04-python-more_data_structures/103-python.c
+|4,39,1,0,1654718029,"~/alx-higher_level_programming/0x04-python-more_data_structures/103-python.c"
+-'  1  0  ~/alx-higher_level_programming/0x04-python-more_data_structures/103-python.c
+|4,39,1,0,1654718029,"~/alx-higher_level_programming/0x04-python-more_data_structures/103-python.c"
+-'  1  0  ~/alx-higher_level_programming/0x04-python-more_data_structures/103-python.c
+|4,39,1,0,1654718029,"~/alx-higher_level_programming/0x04-python-more_data_structures/103-python.c"
+-'  1  0  ~/alx-higher_level_programming/0x04-python-more_data_structures/103-python.c
+|4,39,1,0,1654718029,"~/alx-higher_level_programming/0x04-python-more_data_structures/103-python.c"
+-'  1  0  ~/alx-higher_level_programming/0x04-python-more_data_structures/103-python.c
+|4,39,1,0,1654718029,"~/alx-higher_level_programming/0x04-python-more_data_structures/103-python.c"
+-'  1  0  ~/alx-higher_level_programming/0x04-python-more_data_structures/103-python.c
+|4,39,1,0,1654718029,"~/alx-higher_level_programming/0x04-python-more_data_structures/103-python.c"
+-'  1  0  ~/alx-higher_level_programming/0x04-python-more_data_structures/103-python.c
+|4,39,1,0,1654718029,"~/alx-higher_level_programming/0x04-python-more_data_structures/103-python.c"
+-'  1  0  ~/alx-higher_level_programming/0x04-python-more_data_structures/103-python.c
+|4,39,1,0,1654718029,"~/alx-higher_level_programming/0x04-python-more_data_structures/103-python.c"
+-'  1  0  ~/alx-higher_level_programming/0x04-python-more_data_structures/103-python.c
+|4,39,1,0,1654718029,"~/alx-higher_level_programming/0x04-python-more_data_structures/103-python.c"
+-'  1  0  ~/alx-higher_level_programming/0x04-python-more_data_structures/103-python.c
+|4,39,1,0,1654718029,"~/alx-higher_level_programming/0x04-python-more_data_structures/103-python.c"
+-'  1  0  ~/alx-higher_level_programming/0x04-python-more_data_structures/103-python.c
+|4,39,1,0,1654718029,"~/alx-higher_level_programming/0x04-python-more_data_structures/103-python.c"
+-'  1  0  ~/alx-higher_level_programming/0x04-python-more_data_structures/103-python.c
+|4,39,1,0,1654718029,"~/alx-higher_level_programming/0x04-python-more_data_structures/103-python.c"
+-'  1  0  ~/alx-higher_level_programming/0x04-python-more_data_structures/103-python.c
+|4,39,1,0,1654718029,"~/alx-higher_level_programming/0x04-python-more_data_structures/103-python.c"
+-'  1  0  ~/alx-higher_level_programming/0x04-python-more_data_structures/103-python.c
+|4,39,1,0,1654718029,"~/alx-higher_level_programming/0x04-python-more_data_structures/103-python.c"
+-'  1  0  ~/alx-higher_level_programming/0x04-python-more_data_structures/103-python.c
+|4,39,1,0,1654718029,"~/alx-higher_level_programming/0x04-python-more_data_structures/103-python.c"
+-'  2  6  ~/alx-higher_level_programming/0x04-python-more_data_structures/11-multiply_list_map.py
+|4,39,2,6,1654716383,"~/alx-higher_level_programming/0x04-python-more_data_structures/11-multiply_list_map.py"
+-'  2  6  ~/alx-higher_level_programming/0x04-python-more_data_structures/11-multiply_list_map.py
+|4,39,2,6,1654716383,"~/alx-higher_level_programming/0x04-python-more_data_structures/11-multiply_list_map.py"
+-'  2  6  ~/alx-higher_level_programming/0x04-python-more_data_structures/11-multiply_list_map.py
+|4,39,2,6,1654716383,"~/alx-higher_level_programming/0x04-python-more_data_structures/11-multiply_list_map.py"
+-'  2  6  ~/alx-higher_level_programming/0x04-python-more_data_structures/11-multiply_list_map.py
+|4,39,2,6,1654716383,"~/alx-higher_level_programming/0x04-python-more_data_structures/11-multiply_list_map.py"
+-'  2  6  ~/alx-higher_level_programming/0x04-python-more_data_structures/11-multiply_list_map.py
+|4,39,2,6,1654716383,"~/alx-higher_level_programming/0x04-python-more_data_structures/11-multiply_list_map.py"
+-'  2  6  ~/alx-higher_level_programming/0x04-python-more_data_structures/11-multiply_list_map.py
+|4,39,2,6,1654716383,"~/alx-higher_level_programming/0x04-python-more_data_structures/11-multiply_list_map.py"
+-'  2  6  ~/alx-higher_level_programming/0x04-python-more_data_structures/11-multiply_list_map.py
+|4,39,2,6,1654716383,"~/alx-higher_level_programming/0x04-python-more_data_structures/11-multiply_list_map.py"
+-'  2  6  ~/alx-higher_level_programming/0x04-python-more_data_structures/11-multiply_list_map.py
+|4,39,2,6,1654716383,"~/alx-higher_level_programming/0x04-python-more_data_structures/11-multiply_list_map.py"
+-'  2  6  ~/alx-higher_level_programming/0x04-python-more_data_structures/11-multiply_list_map.py
+|4,39,2,6,1654716383,"~/alx-higher_level_programming/0x04-python-more_data_structures/11-multiply_list_map.py"
+-'  2  6  ~/alx-higher_level_programming/0x04-python-more_data_structures/11-multiply_list_map.py
+|4,39,2,6,1654716383,"~/alx-higher_level_programming/0x04-python-more_data_structures/11-multiply_list_map.py"
+-'  2  6  ~/alx-higher_level_programming/0x04-python-more_data_structures/11-multiply_list_map.py
+|4,39,2,6,1654716383,"~/alx-higher_level_programming/0x04-python-more_data_structures/11-multiply_list_map.py"
+-'  2  6  ~/alx-higher_level_programming/0x04-python-more_data_structures/11-multiply_list_map.py
+|4,39,2,6,1654716383,"~/alx-higher_level_programming/0x04-python-more_data_structures/11-multiply_list_map.py"
+-'  2  6  ~/alx-higher_level_programming/0x04-python-more_data_structures/11-multiply_list_map.py
+|4,39,2,6,1654716383,"~/alx-higher_level_programming/0x04-python-more_data_structures/11-multiply_list_map.py"
+-'  2  6  ~/alx-higher_level_programming/0x04-python-more_data_structures/11-multiply_list_map.py
+|4,39,2,6,1654716383,"~/alx-higher_level_programming/0x04-python-more_data_structures/11-multiply_list_map.py"
+-'  2  6  ~/alx-higher_level_programming/0x04-python-more_data_structures/11-multiply_list_map.py
+|4,39,2,6,1654716383,"~/alx-higher_level_programming/0x04-python-more_data_structures/11-multiply_list_map.py"
+-'  2  6  ~/alx-higher_level_programming/0x04-python-more_data_structures/11-multiply_list_map.py
+|4,39,2,6,1654716383,"~/alx-higher_level_programming/0x04-python-more_data_structures/11-multiply_list_map.py"
+-'  2  6  ~/alx-higher_level_programming/0x04-python-more_data_structures/11-multiply_list_map.py
+|4,39,2,6,1654716383,"~/alx-higher_level_programming/0x04-python-more_data_structures/11-multiply_list_map.py"
+-'  2  6  ~/alx-higher_level_programming/0x04-python-more_data_structures/11-multiply_list_map.py
+|4,39,2,6,1654716383,"~/alx-higher_level_programming/0x04-python-more_data_structures/11-multiply_list_map.py"
+-'  2  6  ~/alx-higher_level_programming/0x04-python-more_data_structures/11-multiply_list_map.py
+|4,39,2,6,1654716383,"~/alx-higher_level_programming/0x04-python-more_data_structures/11-multiply_list_map.py"
+-'  2  6  ~/alx-higher_level_programming/0x04-python-more_data_structures/11-multiply_list_map.py
+|4,39,2,6,1654716383,"~/alx-higher_level_programming/0x04-python-more_data_structures/11-multiply_list_map.py"
+-'  2  6  ~/alx-higher_level_programming/0x04-python-more_data_structures/11-multiply_list_map.py
+|4,39,2,6,1654716383,"~/alx-higher_level_programming/0x04-python-more_data_structures/11-multiply_list_map.py"
+-'  2  6  ~/alx-higher_level_programming/0x04-python-more_data_structures/11-multiply_list_map.py
+|4,39,2,6,1654716383,"~/alx-higher_level_programming/0x04-python-more_data_structures/11-multiply_list_map.py"
+-'  2  6  ~/alx-higher_level_programming/0x04-python-more_data_structures/11-multiply_list_map.py
+|4,39,2,6,1654716383,"~/alx-higher_level_programming/0x04-python-more_data_structures/11-multiply_list_map.py"
+-'  2  6  ~/alx-higher_level_programming/0x04-python-more_data_structures/11-multiply_list_map.py
+|4,39,2,6,1654716383,"~/alx-higher_level_programming/0x04-python-more_data_structures/11-multiply_list_map.py"
+-'  2  6  ~/alx-higher_level_programming/0x04-python-more_data_structures/11-multiply_list_map.py
+|4,39,2,6,1654716383,"~/alx-higher_level_programming/0x04-python-more_data_structures/11-multiply_list_map.py"
+-'  2  6  ~/alx-higher_level_programming/0x04-python-more_data_structures/11-multiply_list_map.py
+|4,39,2,6,1654716383,"~/alx-higher_level_programming/0x04-python-more_data_structures/11-multiply_list_map.py"
+-'  2  6  ~/alx-higher_level_programming/0x04-python-more_data_structures/11-multiply_list_map.py
+|4,39,2,6,1654716383,"~/alx-higher_level_programming/0x04-python-more_data_structures/11-multiply_list_map.py"
+-'  2  6  ~/alx-higher_level_programming/0x04-python-more_data_structures/11-multiply_list_map.py
+|4,39,2,6,1654716383,"~/alx-higher_level_programming/0x04-python-more_data_structures/11-multiply_list_map.py"
+-'  2  6  ~/alx-higher_level_programming/0x04-python-more_data_structures/11-multiply_list_map.py
+|4,39,2,6,1654716383,"~/alx-higher_level_programming/0x04-python-more_data_structures/11-multiply_list_map.py"
+-'  2  6  ~/alx-higher_level_programming/0x04-python-more_data_structures/11-multiply_list_map.py
+|4,39,2,6,1654716383,"~/alx-higher_level_programming/0x04-python-more_data_structures/11-multiply_list_map.py"
+-'  2  6  ~/alx-higher_level_programming/0x04-python-more_data_structures/11-multiply_list_map.py
+|4,39,2,6,1654716383,"~/alx-higher_level_programming/0x04-python-more_data_structures/11-multiply_list_map.py"
+-'  2  6  ~/alx-higher_level_programming/0x04-python-more_data_structures/11-multiply_list_map.py
+|4,39,2,6,1654716383,"~/alx-higher_level_programming/0x04-python-more_data_structures/11-multiply_list_map.py"
+-'  1  0  ~/alx-higher_level_programming/0x04-python-more_data_structures/11-multiply_list_map.py
+|4,39,1,0,1654716367,"~/alx-higher_level_programming/0x04-python-more_data_structures/11-multiply_list_map.py"
+-'  1  0  ~/alx-higher_level_programming/0x04-python-more_data_structures/11-multiply_list_map.py
+|4,39,1,0,1654716367,"~/alx-higher_level_programming/0x04-python-more_data_structures/11-multiply_list_map.py"
+-'  1  0  ~/alx-higher_level_programming/0x04-python-more_data_structures/11-multiply_list_map.py
+|4,39,1,0,1654716367,"~/alx-higher_level_programming/0x04-python-more_data_structures/11-multiply_list_map.py"
+-'  1  0  ~/alx-higher_level_programming/0x04-python-more_data_structures/11-multiply_list_map.py
+|4,39,1,0,1654716367,"~/alx-higher_level_programming/0x04-python-more_data_structures/11-multiply_list_map.py"
+-'  1  0  ~/alx-higher_level_programming/0x04-python-more_data_structures/11-multiply_list_map.py
+|4,39,1,0,1654716367,"~/alx-higher_level_programming/0x04-python-more_data_structures/11-multiply_list_map.py"
+-'  1  0  ~/alx-higher_level_programming/0x04-python-more_data_structures/11-multiply_list_map.py
+|4,39,1,0,1654716367,"~/alx-higher_level_programming/0x04-python-more_data_structures/11-multiply_list_map.py"
+-'  1  0  ~/alx-higher_level_programming/0x04-python-more_data_structures/11-multiply_list_map.py
+|4,39,1,0,1654716367,"~/alx-higher_level_programming/0x04-python-more_data_structures/11-multiply_list_map.py"
+-'  1  0  ~/alx-higher_level_programming/0x04-python-more_data_structures/11-multiply_list_map.py
+|4,39,1,0,1654716367,"~/alx-higher_level_programming/0x04-python-more_data_structures/11-multiply_list_map.py"
+-'  1  0  ~/alx-higher_level_programming/0x04-python-more_data_structures/11-multiply_list_map.py
+|4,39,1,0,1654716367,"~/alx-higher_level_programming/0x04-python-more_data_structures/11-multiply_list_map.py"
+-'  1  0  ~/alx-higher_level_programming/0x04-python-more_data_structures/11-multiply_list_map.py
+|4,39,1,0,1654716367,"~/alx-higher_level_programming/0x04-python-more_data_structures/11-multiply_list_map.py"
+-'  1  0  ~/alx-higher_level_programming/0x04-python-more_data_structures/11-multiply_list_map.py
+|4,39,1,0,1654716367,"~/alx-higher_level_programming/0x04-python-more_data_structures/11-multiply_list_map.py"
+-'  1  0  ~/alx-higher_level_programming/0x04-python-more_data_structures/11-multiply_list_map.py
+|4,39,1,0,1654716367,"~/alx-higher_level_programming/0x04-python-more_data_structures/11-multiply_list_map.py"
+-'  1  0  ~/alx-higher_level_programming/0x04-python-more_data_structures/11-multiply_list_map.py
+|4,39,1,0,1654716367,"~/alx-higher_level_programming/0x04-python-more_data_structures/11-multiply_list_map.py"
 
 # History of marks within files (newest to oldest):
 
-> ~/0x00-vagrant/0-hello_ubuntu
-	*	1646430974	0
-	"	1	4
-	^	1	5
-	.	1	4
-	+	1	4
+> ~/alx-low_level_programming/0x18-dynamic_libraries/libholberton.so
+	*	1655141544	0
+	"	1	0
 
-> ~/0x00-vagrant/README.md
-	*	1646430901	0
-	"	1	8
-	^	1	9
-	.	1	8
-	+	1	8
+> ~/alx-low_level_programming/0x18-dynamic_libraries/100-operations.so
+	*	1655141434	0
+	"	1	0
+
+> ~/alx-low_level_programming/0x18-dynamic_libraries/1-create_dynamic_lib.sh
+	*	1655141401	0
+	"	1	0
+
+> ~/alx-low_level_programming/0x17-doubly_linked_lists/README.md
+	*	1654802520	0
+	"	3	70
+	^	3	71
+	.	3	70
+	+	3	70
+
+> ~/alx-higher_level_programming/0x04-python-more_data_structures/103-python.c
+	*	1654718064	0
+	"	31	26
+	^	31	27
+	.	31	26
+	+	31	26
+
+> ~/alx-higher_level_programming/0x04-python-more_data_structures/11-multiply_list_map.py
+	*	1654716380	0
+	"	2	6
+	^	2	7
+	.	2	6
+	+	2	6
+
+> ~/alx-higher_level_programming/0x04-python-more_data_structures/11-main.py
+	*	1654716160	0
+	"	7	13
+	^	7	14
+	.	7	13
+	+	1	18
+	+	7	13
+
+> ~/alx-higher_level_programming/0x04-python-more_data_structures/11-mutiply_list_map.py
+	*	1654716108	0
+	"	1	0
+	^	1	0
+
+> ~/alx-higher_level_programming/0x04-python-more_data_structures/0-square_matrix_simple.py
+	*	1654715305	0
+	"	1	0
+	^	1	0
+
+> ~/alx-higher_level_programming/0x04-python-more_data_structures/README.md
+	*	1654708872	0
+	"	1	0
+	^	1	0
+
+> ~/alx-higher_level_programming/0x03-python-data_structures/lists.h
+	*	1654542534	0
+	"	25	5
+	^	25	6
+	.	25	5
+	+	4	34
+	+	2	15
+	+	18	36
+	+	18	33
+	+	17	0
+	+	16	23
+	+	25	5
+
+> ~/alx-higher_level_programming/0x03-python-data_structures/13-is_palindrome.c
+	*	1654542488	0
+	"	65	0
+	^	65	0
+	.	9	0
+	+	34	0
+	+	38	9
+	+	37	0
+	+	47	0
+	+	45	0
+	+	44	8
+	+	46	19
+	+	60	0
+	+	56	0
+	+	55	20
+	+	58	14
+	+	59	0
+	+	64	11
+	+	63	0
+	+	15	6
+	+	18	15
+	+	36	12
+	+	9	0
+
+> ~/alx-higher_level_programming/0x03-python-data_structures/100-print_python_list_info.c
+	*	1654542134	0
+	"	14	66
+	^	14	67
+	.	14	66
+	+	15	0
+	+	14	66
+
+> ~/alx-higher_level_programming/0x03-python-data_structures/11-delete_at.py
+	*	1654505023	0
+	"	4	11
+	^	4	12
+	.	4	12
+	+	4	27
+	+	8	21
+	+	1	1
+	+	3	21
+	+	4	12
+
+> ~/alx-higher_level_programming/0x03-python-data_structures/2-replace_in_list.py
+	*	1654504910	0
+	"	4	11
+	^	4	12
+	.	4	12
+	+	8	21
+	+	3	7
+	+	4	13
+	+	3	21
+	+	4	12
+
+> ~/alx-higher_level_programming/0x03-python-data_structures/1-element_at.py
+	*	1654504830	0
+	"	4	11
+	^	4	12
+	.	4	12
+	+	1	18
+	+	4	46
+	+	5	0
+	+	4	25
+	+	4	27
+	+	5	19
+	+	8	0
+	+	3	21
+	+	4	12
+
+> ~/alx-higher_level_programming/0x03-python-data_structures/4-new_in_list.py
+	*	1654504426	0
+	"	8	8
+	^	8	9
+	.	7	0
+	+	6	110
+	+	6	86
+	+	6	89
+	+	6	9
+	+	8	19
+	+	7	27
+	+	4	24
+	+	3	24
+	+	4	12
+	+	5	18
+	+	6	9
+	+	7	0
+
+> ~/alx-higher_level_programming/0x03-python-data_structures/3-print_reversed_list_integer.py
+	*	1654504006	0
+	"	4	22
+	^	4	23
+	.	4	23
+	+	7	39
+	+	4	18
+	+	3	17
+	+	4	26
+	+	4	23
+
+> ~/alx-higher_level_programming/0x03-python-data_structures/2-main.py
+	*	1654503675	0
+	"	5	6
+	^	5	7
+	.	5	6
+	+	10	13
+	+	5	6
+
+> ~/alx-higher_level_programming/0x03-python-data_structures/list.h
+	*	1654460423	0
+	"	1	0
+
+> ~/alx-higher_level_programming/0x03-python-data_structures/12-switch.py
+	*	1654460228	0
+	"	4	10
+	^	4	11
+	.	4	10
+	+	5	36
+	+	4	10
+
+> ~/alx-higher_level_programming/0x03-python-data_structures/11-main.py
+	*	1654460043	0
+	"	8	13
+	^	8	14
+	.	8	13
+	+	8	13
+
+> ~/alx-higher_level_programming/0x03-python-data_structures/10-divisible_by_2.py
+	*	1654459321	0
+	"	8	28
+	^	8	29
+	.	8	28
+	+	4	33
+	+	5	31
+	+	9	18
+	+	2	31
+	+	4	0
+	+	5	44
+	+	8	13
+	+	9	12
+	+	8	29
+	+	4	0
+	+	6	32
+	+	8	33
+	+	9	18
+	+	6	28
+	+	8	28
+
+> ~/alx-higher_level_programming/0x03-python-data_structures/10-main.py
+	*	1654458581	0
+	"	10	9
+	^	10	10
+	.	9	0
+	+	11	0
+	+	10	4
+	+	8	27
+	+	9	0
+
+> ~/alx-higher_level_programming/0x03-python-data_structures/9-main.py
+	*	1654457842	0
+	"	6	33
+	^	6	34
+	.	7	0
+	+	7	0
+
+> ~/alx-higher_level_programming/0x03-python-data_structures/9-max_integer.py
+	*	1654457794	0
+	"	10	15
+	^	10	16
+	.	11	0
+	+	4	19
+	+	10	16
+	+	5	9
+	+	6	0
+	+	6	22
+	+	8	0
+	+	9	30
+	+	10	16
+	+	11	0
+
+> ~/alx-higher_level_programming/0x03-python-data_structures/8-main.py
+	*	1654457343	0
+	"	6	64
+	^	6	65
+	.	7	0
+	+	7	0
+
+> ~/alx-higher_level_programming/0x03-python-data_structures/8-multiple_returns.py
+	*	1654457286	0
+	"	8	15
+	^	8	16
+	.	8	15
+	+	1	18
+	+	8	15
+
+> ~/alx-higher_level_programming/0x03-python-data_structures/7-add_tuple.py
+	*	1654456871	0
+	"	7	17
+	^	7	18
+	.	7	17
+	+	7	19
+	+	3	17
+	+	6	60
+	+	3	10
+	+	4	16
+	+	5	6
+	+	6	56
+	+	7	17
+
+> ~/alx-higher_level_programming/0x03-python-data_structures/7-main.py
+	*	1654456746	0
+	"	10	28
+	^	10	29
+	.	10	28
+	+	10	28
+
+> ~/alx-higher_level_programming/0x03-python-data_structures/6-print_matrix_integer.py
+	*	1654429946	0
+	"	6	7
+	^	6	8
+	.	6	8
+	+	1	56
+	+	6	50
+	+	3	0
+	+	4	0
+	+	5	0
+	+	6	8
+
+> ~/alx-higher_level_programming/0x03-python-data_structures/5-no_c.py
+	*	1654428879	0
+	"	3	19
+	^	3	20
+	.	4	0
+	+	1	124
+	+	1	73
+	+	1	63
+	+	1	0
+	+	1	116
+	+	1	159
+	+	2	0
+	+	1	153
+	+	1	56
+	+	1	116
+	+	1	140
+	+	1	159
+	+	1	139
+	+	1	92
+	+	1	66
+	+	1	139
+	+	3	171
+	+	3	70
+	+	3	134
+	+	3	70
+	+	3	83
+	+	3	134
+	+	4	91
+	+	3	74
+	+	4	64
+	+	4	0
+
+> ~/alx-higher_level_programming/0x03-python-data_structures/5-main.py
+	*	1654419443	0
+	"	5	21
+	^	5	22
+	.	5	21
+	+	5	21
+
+> ~/alx-higher_level_programming/0x03-python-data_structures/4-main.py
+	*	1654418350	0
+	"	10	13
+	^	10	14
+	.	10	13
+	+	10	13
+
+> ~/alx-higher_level_programming/0x03-python-data_structures/3-main.py
+	*	1654411801	0
+	"	5	35
+	^	5	36
+	.	5	35
+	+	5	35
+
+> ~/alx-higher_level_programming/0x03-python-data_structures/1-main.py
+	*	1654411059	0
+	"	6	73
+	^	6	74
+	.	7	0
+	+	1	18
+	+	7	0
+
+> ~/alx-higher_level_programming/0x03-python-data_structures/0-main.py
+	*	1654410352	0
+	"	5	26
+	^	5	27
+	.	5	26
+	+	5	26
+
+> ~/alx-higher_level_programming/0x03-python-data_structures/0-print_list_integer.py
+	*	1654410297	0
+	"	4	39
+	^	4	40
+	.	5	0
+	+	5	0
+
+> ~/alx-higher_level_programming/0x03-python-data_structures/README.md
+	*	1654408123	0
+	"	11	42
+	^	11	43
+	.	11	42
+	+	3	61
+	+	11	42
+
+> ~/alx-higher_level_programming/0x02-python-import_modules/103-fast_alphabet.py
+	*	1654189421	0
+	"	3	28
+	^	3	29
+	.	3	28
+	+	3	28
+
+> ~/alx-higher_level_programming/0x02-python-import_modules/102-magic_calculation.py
+	*	1654188997	0
+	"	10	7
+	^	10	8
+	.	10	0
+	+	9	92
+	+	3	0
+	+	3	46
+	+	5	0
+	+	6	8
+	+	7	0
+	+	6	28
+	+	7	25
+	+	8	8
+	+	9	9
+	+	10	0
+
+> ~/alx-higher_level_programming/0x02-python-import_modules/101-easy_print.py
+	*	1654187870	0
+	"	2	50
+	^	2	51
+	.	3	0
+	+	2	51
+	+	3	0
+
+> ~/alx-higher_level_programming/0x02-python-import_modules/100-my_calculator.py
+	*	1654187664	0
+	"	11	26
+	^	11	26
+	.	11	25
+	+	4	71
+	+	4	139
+	+	4	341
+	+	4	151
+	+	4	373
+	+	7	67
+	+	11	28
+	+	23	14
+	+	11	25
+
+> ~/alx-higher_level_programming/0x02-python-import_modules/4-hidden_discovery.py
+	*	1654177743	0
+	"	5	34
+	^	5	35
+	.	5	34
+	+	2	26
+	+	6	51
+	+	5	34
+
+> ~/alx-higher_level_programming/0x02-python-import_modules/5-variable_load.py
+	*	1654171596	0
+	"	2	23
+	^	2	24
+	.	2	23
+	+	3	62
+	+	3	32
+	+	4	12
+	+	5	0
+	+	4	25
+	+	2	23
+
+> ~/alx-higher_level_programming/0x02-python-import_modules/variable_load_5.py
+	*	1654169907	0
+	"	4	2
+	^	4	3
+	.	4	2
+	+	2	6
+	+	4	2
+
+> ~/alx-higher_level_programming/0x02-python-import_modules/3-infinite_add.py
+	*	1654168183	0
+	"	9	11
+	^	9	12
+	.	9	12
+	+	5	18
+	+	5	34
+	+	10	10
+	+	2	25
+	+	4	8
+	+	8	67
+	+	8	79
+	+	4	10
+	+	8	13
+	+	8	48
+	+	10	24
+	+	6	7
+	+	7	22
+	+	8	9
+	+	8	23
+	+	8	8
+	+	8	25
+	+	7	20
+	+	6	5
+	+	10	0
+	+	9	0
+	+	8	8
+	+	9	12
+
+> ~/alx-higher_level_programming/0x02-python-import_modules/2-args.py
+	*	1654166447	0
+	"	9	8
+	^	9	9
+	.	9	9
+	+	1	180
+	+	1	33
+	+	1	82
+	+	1	18
+	+	1	39
+	+	1	126
+	+	1	210
+	+	1	196
+	+	1	125
+	+	1	210
+	+	1	260
+	+	1	254
+	+	1	214
+	+	1	254
+	+	2	0
+	+	1	201
+	+	1	177
+	+	6	42
+	+	8	40
+	+	8	49
+	+	10	40
+	+	14	53
+	+	9	8
+	+	8	40
+	+	9	9
+	+	10	0
+	+	9	9
+
+> ~/alx-higher_level_programming/0x02-python-import_modules/calculator_1.py
+	*	1654163636	0
+	"	5	0
+	^	5	0
+	.	4	0
+	+	48	196
+	+	15	0
+	+	14	0
+	+	10	0
+	+	6	0
+	+	11	0
+	+	15	0
+	+	7	4
+	+	3	4
+	+	1	18
+	+	12	0
+	+	8	0
+	+	4	0
+
+> ~/alx-higher_level_programming/0x02-python-import_modules/1-calculation.py
+	*	1654163047	0
+	"	9	16
+	^	9	17
+	.	9	16
+	+	7	55
+	+	8	55
+	+	9	16
+
+> ~/alx-higher_level_programming/0x02-python-import_modules/0-import_add.py
+	*	1654162311	0
+	"	1	18
+	^	1	19
+	.	1	18
+	+	1	18
+
+> ~/alx-higher_level_programming/0x02-python-import_modules/0-add.py
+	*	1654162218	0
+	"	2	8
+	^	2	9
+	.	2	8
+	+	1	18
+	+	2	21
+	+	6	3
+	+	2	8
+
+> ~/alx-higher_level_programming/0x02-python-import_modules/add_0.py
+	*	1654161485	0
+	"	12	17
+	^	12	18
+	.	13	0
+	+	12	18
+	+	3	0
+	+	4	4
+	+	5	9
+	+	7	4
+	+	9	3
+	+	9	12
+	+	10	27
+	+	12	3
+	+	12	18
+	+	13	0
+
+> ~/alx-higher_level_programming/0x02-python-import_modules/README.md
+	*	1654160734	0
+	"	6	58
+	^	6	59
+	.	6	58
+	+	1	0
+	+	6	58
+
+> ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/lists.h
+	*	1654114103	0
+	"	1	18
+	^	1	19
+	.	1	18
+	+	10	48
+	+	9	1
+	+	17	0
+	+	16	23
+	+	24	19
+	+	1	18
+
+> ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/13-insert_number.c
+	*	1654113986	0
+	"	1	0
+	^	1	0
+	.	41	13
+	+	85	11
+	+	93	35
+	+	95	14
+	+	101	0
+	+	12	53
+	+	12	67
+	+	85	7
+	+	93	27
+	+	96	35
+	+	91	8
+	+	12	54
+	+	12	53
+	+	12	52
+	+	76	0
+	+	68	48
+	+	63	107
+	+	68	70
+	+	50	59
+	+	76	0
+	+	68	53
+	+	63	1
+	+	63	37
+	+	63	39
+	+	63	70
+	+	63	89
+	+	68	48
+	+	68	52
+	+	68	51
+	+	75	18
+	+	75	0
+	+	63	1
+	+	63	35
+	+	63	37
+	+	63	69
+	+	63	89
+	+	68	50
+	+	75	0
+	+	63	39
+	+	63	109
+	+	68	48
+	+	63	37
+	+	63	68
+	+	63	42
+	+	63	37
+	+	63	26
+	+	63	40
+	+	68	48
+	+	73	40
+	+	63	40
+	+	63	45
+	+	73	0
+	+	63	34
+	+	75	0
+	+	74	1
+	+	43	32
+	+	64	0
+	+	67	0
+	+	65	12
+	+	74	21
+	+	45	35
+	+	63	0
+	+	45	36
+	+	45	44
+	+	48	0
+	+	45	14
+	+	45	13
+	+	53	0
+	+	45	27
+	+	53	19
+	+	46	0
+	+	56	25
+	+	62	0
+	+	56	24
+	+	61	0
+	+	59	18
+	+	68	48
+	+	73	0
+	+	68	27
+	+	70	24
+	+	72	0
+	+	59	19
+	+	60	19
+	+	53	9
+	+	51	11
+	+	52	0
+	+	55	0
+	+	54	19
+	+	56	13
+	+	3	19
+	+	42	0
+	+	17	10
+	+	16	0
+	+	18	16
+	+	30	0
+	+	29	22
+	+	40	0
+	+	37	0
+	+	36	26
+	+	39	21
+	+	41	13
+
+> ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/mv
+	*	1654113522	0
+	"	1	0
+
+> ~/alx-higher_level_programming/0x00-python-hello_world/102-magic_calculation.py
+	*	1654112645	0
+	"	3	3
+	^	3	4
+	.	3	0
+	+	2	28
+	+	3	0
+
+> ~/alx-higher_level_programming/0x00-python-hello_world/3-print_number.py
+	*	1654112539	0
+	"	3	16
+	^	3	17
+	.	3	16
+	+	2	11
+	+	3	16
+
+> ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/102-magic_calculation.py
+	*	1654039737	0
+	"	7	3
+	^	7	4
+	.	7	4
+	+	7	49
+	+	2	31
+	+	3	0
+	+	4	0
+	+	5	4
+	+	6	0
+	+	7	4
+
+> ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/101-main.py
+	*	1654039486	0
+	"	8	34
+	^	8	35
+	.	8	34
+	+	8	34
+
+> ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/101-remove_char_at.py
+	*	1654039425	0
+	"	7	3
+	^	7	4
+	.	7	4
+	+	7	54
+	+	3	0
+	+	4	0
+	+	5	0
+	+	6	0
+	+	7	4
+
+> ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/100-print_tebahpla.py
+	*	1654039080	0
+	"	4	8
+	^	4	9
+	.	4	8
+	+	5	8
+	+	3	20
+	+	3	0
+	+	4	0
+	+	5	4
+	+	2	4
+	+	3	8
+	+	5	26
+	+	4	8
+
+> ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/12-fizzbuzz.py
+	*	1654036452	0
+	"	11	11
+	^	11	12
+	.	4	0
+	+	2	42
+	+	2	38
+	+	7	20
+	+	2	63
+	+	7	60
+	+	2	103
+	+	9	63
+	+	11	0
+	+	11	46
+	+	7	11
+	+	7	43
+	+	9	11
+	+	11	11
+	+	11	32
+	+	9	45
+	+	9	16
+	+	7	13
+	+	7	28
+	+	7	14
+	+	2	52
+	+	11	17
+	+	12	0
+	+	10	0
+	+	8	0
+	+	5	0
+	+	2	42
+	+	3	27
+	+	3	0
+	+	4	0
+
+> ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/7-islower.py
+	*	1654036115	0
+	"	8	3
+	^	8	4
+	.	8	3
+	+	1	80
+	+	1	61
+	+	1	58
+	+	1	57
+	+	1	76
+	+	1	55
+	+	1	81
+	+	1	76
+	+	1	67
+	+	1	72
+	+	1	66
+	+	1	58
+	+	1	25
+	+	1	72
+	+	1	49
+	+	1	33
+	+	1	0
+	+	8	8
+	+	3	0
+	+	4	0
+	+	5	0
+	+	6	0
+	+	7	0
+	+	8	3
+
+> ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/11-pow.py
+	*	1654035046	0
+	"	3	16
+	^	3	17
+	.	3	16
+	+	3	16
+
+> ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/10-add.py
+	*	1654035019	0
+	"	3	14
+	^	3	15
+	.	3	14
+	+	3	14
+
+> ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/8-uppercase.py
+	*	1654034853	0
+	"	8	10
+	^	8	11
+	.	7	16
+	+	3	79
+	+	3	8
+	+	4	44
+	+	4	91
+	+	4	127
+	+	4	126
+	+	4	127
+	+	8	13
+	+	4	117
+	+	4	59
+	+	2	27
+	+	8	13
+	+	3	0
+	+	4	58
+	+	4	116
+	+	8	10
+	+	4	117
+	+	4	0
+	+	4	114
+	+	4	64
+	+	7	76
+	+	7	43
+	+	8	0
+	+	7	16
+
+> ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/6-print_comb3.py
+	*	1654033913	0
+	"	7	35
+	^	7	36
+	.	7	36
+	+	4	65
+	+	3	15
+	+	4	32
+	+	4	0
+	+	4	32
+	+	4	70
+	+	7	64
+	+	8	0
+	+	5	51
+	+	5	0
+	+	7	36
+
+> ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/5-print_comb2.py
+	*	1654033545	0
+	"	6	30
+	^	6	31
+	.	6	30
+	+	4	18
+	+	4	0
+	+	4	34
+	+	5	28
+	+	4	33
+	+	6	0
+	+	4	30
+	+	6	30
+
+> ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/2-print_alphabet.py
+	*	1654033428	0
+	"	3	37
+	^	3	38
+	.	3	37
+	+	2	21
+	+	2	24
+	+	3	37
+
+> ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/3-print_alphabt.py
+	*	1654033413	0
+	"	5	37
+	^	5	38
+	.	5	37
+	+	5	26
+	+	3	18
+	+	5	37
+
+> ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/4-print_hexa.py
+	*	1654033394	0
+	"	3	41
+	^	3	42
+	.	3	38
+	+	3	38
+
+> ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/README.md
+	*	1654032391	0
+	"	16	52
+	^	16	53
+	.	16	52
+	+	16	52
+
+> ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/13-main.c
+	*	1654030239	0
+	"	34	1
+	^	34	2
+	.	34	0
+	+	35	0
+	+	32	21
+	+	33	0
+	+	35	0
+	+	34	0
+
+> ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/linked_lists.c
+	*	1654026418	0
+	"	17	0
+	^	17	0
+	.	17	0
+	+	25	0
+	+	22	6
+	+	22	7
+	+	23	14
+	+	55	0
+	+	39	32
+	+	38	0
+	+	53	0
+	+	52	21
+	+	54	13
+	+	71	0
+	+	70	0
+	+	69	15
+	+	16	7
+	+	18	24
+	+	17	1
+	+	18	0
+	+	19	2
+	+	19	0
+	+	20	0
+	+	21	2
+	+	22	2
+	+	23	2
+	+	23	0
+	+	25	0
+	+	24	0
+	+	17	0
+
+> ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/12-main.py
+	*	1654024612	0
+	"	5	8
+	^	5	9
+	.	5	8
+	+	5	8
+
+> ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/11-main.py
+	*	1654024032	0
+	"	8	16
+	^	8	17
+	.	8	16
+	+	8	16
+
+> ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/10-main.py
+	*	1654023895	0
+	"	6	18
+	^	6	19
+	.	6	18
+	+	6	18
+
+> ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/9-print_last_digit.py
+	*	1654023682	0
+	"	8	16
+	^	8	17
+	.	8	16
+	+	2	29
+	+	5	13
+	+	5	20
+	+	5	4
+	+	5	9
+	+	6	0
+	+	4	7
+	+	7	23
+	+	4	35
+	+	8	16
+
+> ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/9-main.py
+	*	1654023626	0
+	"	7	5
+	^	7	6
+	.	7	7
+	+	7	7
+
+> ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/1-last_digit.py
+	*	1654023116	0
+	"	13	75
+	^	13	76
+	.	13	76
+	+	13	48
+	+	1	18
+	+	5	36
+	+	13	76
+
+> ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/8-main.py
+	*	1654020187	0
+	"	5	41
+	^	5	42
+	.	5	41
+	+	5	41
+
+> ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/7-main.py
+	*	1654018586	0
+	"	8	60
+	^	8	61
+	.	8	60
+	+	2	41
+	+	8	60
+
+> ~/alx-higher_level_programming/0x01-python-if_else_loops_functions/0-positive_or_negative.py
+	*	1654012356	0
+	"	9	29
+	^	9	30
+	.	10	0
+	+	10	0
+
+> ~/alx-higher_level_programming/0x00-python-hello_world/main.py
+	*	1653945138	0
+	"	1	0
+	^	3	6
+	.	3	6
+	+	2	37
+	+	3	6
+
+> ~/alx-higher_level_programming/0x00-python-hello_world/101-compile
+	*	1653945045	0
+	"	2	8
+	^	2	9
+	.	2	8
+	+	2	8
+
+> ~/alx-higher_level_programming/0x00-python-hello_world/100-write.py
+	*	1653944765	0
+	"	4	6
+	^	4	7
+	.	4	6
+	+	4	6
+
+> ~/alx-higher_level_programming/0x00-python-hello_world/4-print_float.py
+	*	1653943435	0
+	"	3	14
+	^	3	15
+	.	3	14
+	+	3	14
+
+> ~/alx-higher_level_programming/0x00-python-hello_world/7-edges.py
+	*	1653943228	0
+	"	5	23
+	^	5	24
+	.	5	23
+	+	8	35
+	+	3	23
+	+	5	22
+	+	4	20
+	+	5	23
+
+> ~/alx-higher_level_programming/0x00-python-hello_world/10-linked_lists.c
+	*	1653941272	0
+	"	24	0
+	^	24	0
+	.	23	0
+	+	97	0
+	+	3	18
+	+	9	333
+	+	25	0
+	+	15	13
+	+	22	0
+	+	20	32
+	+	22	14
+	+	26	2
+	+	25	1
+	+	44	0
+	+	43	13
+	+	60	0
+	+	54	20
+	+	53	0
+	+	59	0
+	+	58	15
+	+	26	0
+	+	21	1
+	+	21	0
+	+	24	0
+	+	22	2
+	+	23	0
+
+> ~/alx-higher_level_programming/0x00-python-hello_world/10-check_cycle.c
+	*	1653940949	0
+	"	17	6
+	^	17	7
+	.	17	6
+	+	26	0
+	+	12	14
+	+	26	0
+	+	12	16
+	+	24	0
+	+	23	0
+	+	20	15
+	+	25	11
+	+	17	6
+
+> ~/alx-higher_level_programming/0x00-python-hello_world/10-main.c
+	*	1653939900	0
+	"	53	11
+	^	53	12
+	.	53	11
+	+	54	0
+	+	14	17
+	+	20	23
+	+	53	11
+
+> ~/alx-higher_level_programming/0x00-python-hello_world/lists.h
+	*	1653938623	0
+	"	23	19
+	^	23	20
+	.	23	19
+	+	17	0
+	+	16	0
+	+	23	19
+
+> ~/alx-higher_level_programming/0x00-python-hello_world/9-easter_egg.py
+	*	1653937984	0
+	"	2	10
+	^	2	11
+	.	2	10
+	+	2	10
+
+> ~/alx-higher_level_programming/0x00-python-hello_world/8-concat_edges.py
+	*	1653937806	0
+	"	3	0
+	^	3	1
+	.	3	0
+	+	1	219
+	+	1	18
+	+	4	59
+	+	4	0
+	+	5	0
+	+	4	41
+	+	4	0
+	+	2	74
+	+	3	0
+	+	5	0
+	+	3	0
+
+> ~/alx-higher_level_programming/0x00-python-hello_world/6-concat.py
+	*	1653936704	0
+	"	4	23
+	^	4	24
+	.	4	23
+	+	5	27
+	+	4	23
+
+> ~/alx-higher_level_programming/0x00-python-hello_world/5-print_string.py
+	*	1653936291	0
+	"	4	8
+	^	4	9
+	.	4	8
+	+	4	8
+
+> ~/alx-higher_level_programming/0x00-python-hello_world/2-print.py
+	*	1653935212	0
+	"	2	60
+	^	2	61
+	.	2	60
+	+	2	60
+
+> ~/alx-higher_level_programming/0x00-python-hello_world/1-run_inline
+	*	1653935004	0
+	"	2	18
+	^	2	19
+	.	2	18
+	+	3	29
+	+	2	18

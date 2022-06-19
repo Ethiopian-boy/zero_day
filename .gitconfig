@@ -1,3 +1,5 @@
 [user]
 	name = Ethiopian-boy
 	email = mullerfromethiopia@gmail.com
+[http]
+	postBuffer = 100000000
